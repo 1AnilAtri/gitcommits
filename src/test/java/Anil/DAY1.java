@@ -10,5 +10,7 @@ public class DAY1 {
             System.out.println(number + " x " + i + " = " + (number * i));
         }
         System.out.println("This is my fourth commit");
+        System.out.print("Hello World");
+        System.out.println("Sorry for late submission sir");
     }
 }
