@@ -9,5 +9,6 @@ public class DAY1 {
         for (int i = 1; i <= 10; i++) {
             System.out.println(number + " x " + i + " = " + (number * i));
         }
+        System.out.println("This is my fourth commit");
     }
 }
